@@ -51,7 +51,6 @@ This project is meant for learning purposes and can be used to practice SQL/PLSQ
 | `Damaged`    | Book is damaged, may not be issued            |
 | `Reserved`   | Reserved (planned for future feature)         |
 | `Under Repair`| Temporarily unavailable                       |
-| `Returned`   | Book has been returned                        |
 
 ---
 
